@@ -1,4 +1,4 @@
-#player,#player a{ color:#000; }
+#player,#player a{ font-size: 10px; dont-family: comic sans; color:#ffffff; }
 #player{ background:url(https://github.com/nutt96/Teste/tree/master/Broken%20Peace%20Heart/sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(https://github.com/nutt96/Teste/tree/master/Broken%20Peace%20Heart/main.png); }
 
@@ -16,15 +16,15 @@
 
 #player #seeker{ right:320px; }
 #player #seekerBase{ border-color:#ccc;  }
-#player #seekerBuffered{ background-color:#4b575d; }
+#player #seekerBuffered{ background-color:#ffffff; }
 #player #seekerSliderBase{ background-color:#ccc; }
 
 #player #volume{ width:65px; right:39px; }
 #player #volumeSlider{ width:8px; background:url(https://github.com/nutt96/Teste/tree/master/Broken%20Peace%20Heart/sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#333;}
-#playlist .module{  color:#333; background-color:#eee; }
+#playlist,#playlist .module,#playlist h3{ border-color:#000000;}
+#playlist .module{  color:#ffffff; background-color:#000000; }
 #playlist h3{ background:url(https://github.com/nutt96/Teste/tree/master/Broken%20Peace%20Heart/bar.jpg); color:#fff; background-color:#333;  }
-#playlist .even{background-color:#eee;}
-#playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#FFF;}
+#playlist .even{background-color:#000000;}
+#playlist .odd{ background-color:#00000;}
+#playlist .focus{ background-color:#ffffff; color:#000000;}
